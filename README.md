@@ -3,10 +3,8 @@
 ---
 
 ## Team Members
-- [Your Name]
-- [Teammate 1]
-- [Teammate 2]
--
+- Akhil Chatla
+- Kavya Vempati
 
 ---
 
